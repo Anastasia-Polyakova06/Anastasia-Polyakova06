@@ -1,10 +1,5 @@
 # ~ 💜Привет💜 ~
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Anastasia-Polyakova06/Anastasia-Polyakova06/refs/heads/main/180f4905387350028cee082d4d9d9fb876e0e6c3657fb1b5aa4ce290668fc9d1.gif" width="150" align="right" />
-  
 Меня зовут Настя. Я студентка, изучаю дизайн и основы программирования.
-<img src="https://raw.githubusercontent.com/Anastasia-Polyakova06/Anastasia-Polyakova06/refs/heads/main/5280d6b82afcd6f8a70c290b1eca12bc9c7720c518e3bd3f65332cbbbf80c065.gif" width="100" height="100" />
-</p>
 
 ## 🧠 О себе:
 - учусь работать с Git и GitHub  
