@@ -12,4 +12,4 @@
 </p>
 
 ## 🎨 Мои работы:
-👉 [Pinterest](https://ru.pinterest.com/anastasiapolyakova06/) 
+👉 [Pinterest](https://pin.it/2AeXRWGzu) 
